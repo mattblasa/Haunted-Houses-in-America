@@ -21,6 +21,7 @@ The dataset itself is a CSV file with the following columns:
 | state_abbrev   | string | The abbreviated state.                                       |
 | country        | string | The country of the haunted place. Currently only US.         |
 
-# Original Source: 
+## Original Source: 
 Orginally scraped by Timothy Renner, with data orginally from theshadowlands.net.
+<br>
 https://github.com/timothyrenner/shadowlands-haunted-places
