@@ -24,4 +24,8 @@ The dataset itself is a CSV file with the following columns:
 ## Original Source: 
 Orginally scraped by Timothy Renner, with data orginally from theshadowlands.net.
 <br>
+Webscraper:
 https://github.com/timothyrenner/shadowlands-haunted-places
+<br>
+Data Source:
+http://theshadowlands.net/
